@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"name": "portfolio",
+		"path": "."
+	},
+	{
+		"name": "wordle",
+		"path": "../wordle"
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5502,
+    "liveServer.settings.multiRootWorkspaceName": "portfolio"
+  }
+}
