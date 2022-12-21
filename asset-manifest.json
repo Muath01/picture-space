@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/picture-space/static/css/main.4c13f0da.css",
+    "main.js": "/picture-space/static/js/main.2c75453d.js",
+    "index.html": "/picture-space/index.html",
+    "main.4c13f0da.css.map": "/picture-space/static/css/main.4c13f0da.css.map",
+    "main.2c75453d.js.map": "/picture-space/static/js/main.2c75453d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c13f0da.css",
+    "static/js/main.2c75453d.js"
+  ]
+}
